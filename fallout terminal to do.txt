@@ -1,0 +1,34 @@
+must be:
+ok	*kreska oddzielaj¹ca
+ok	*ekran powitalny
+ok	*mechanizm liczenia punktów
+ok	*ekran koñcowy
+ok	*dodatkowe klawisze do u¿ywania
+ok	*podœwietlanie wyborów
+ok	*">" na samym dole
+ok	*dŸwiêki
+ok	*kwadratowy migacz na samym dole
+ok	*blokada klikniêæ w opcje, póki siê nie pojawi¹
+ok	*falloutowy kursor
+ok	*background skalowany
+ok	*intro i outro wyœwietlanie char_by_char
+ok	*blokada na koñcu
+ok	*press enter to restart
+ok	*czekaj 30s po pokazaniu wyniku i skocz do intro
+
+
+ewentualne:
+*auto ciêcie textu
+*wiêcej pytañ
+*wiêcej odpowiedzi
+*wiêcej krypt
+*animacja sp³ywaj¹ca
+*wiêcej dodatkowych dŸwiêków
+*warunki przypa³u (1,1,1,1,1.... 2,2,2,2....)
+*poprawic wartosci odpowiedzi
+*porownac czy punktacja jest po rowno
+ok	*przeskalowaæ odleg³oœci Y
+*kratkowane zaznaczanie textu
+*³apanie zaznaczenia na ca³ej szerokoœci opcji
+*przezroczyste wybory do backgroundu: http://en.sfml-dev.org/forums/index.php?topic=17781.0
+*poprawne wyœwietlanie obrazu nie tylko dla rozdzielczoœci w skali 4:3
