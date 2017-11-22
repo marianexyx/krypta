@@ -1,0 +1,52 @@
+﻿  WindowsProject1.cpp
+c:\users\mar\source\repos\windowsproject1\windowsproject1\funkcje.h(102): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u200C" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+c:\users\mar\source\repos\windowsproject1\windowsproject1\funkcje.h(102): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u200B" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+WindowsProject1.cpp(82): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(86): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+WindowsProject1.cpp(86): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+WindowsProject1.cpp(106): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(107): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(107): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(108): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(108): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(118): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(118): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(123): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(123): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(129): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(129): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(137): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(137): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(143): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(143): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(174): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(175): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(292): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(292): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(293): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+WindowsProject1.cpp(293): warning C4244: "inicjowanie": konwersja z "float" do "const int", możliwa utrata danych
+WindowsProject1.cpp(301): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(301): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(399): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(399): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(400): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+WindowsProject1.cpp(400): warning C4244: "inicjowanie": konwersja z "float" do "const int", możliwa utrata danych
+WindowsProject1.cpp(408): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(408): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(452): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(452): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(457): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(457): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(565): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(565): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(589): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+WindowsProject1.cpp(589): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(631): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(642): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+WindowsProject1.cpp(673): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 959 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  WindowsProject1.vcxproj -> C:\Users\mar\source\repos\WindowsProject1\Release\WindowsProject1.exe
